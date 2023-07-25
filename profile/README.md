@@ -3,7 +3,7 @@
 </a>
 
 ## API Docs
-The REST API documentation can be found at https://api-docs.servicepos.com/.
+The REST API documentation can be found at https://api-docs.c1st.com/.
 
 ## We're hiring
 We are looking for new developers! Will you join the ride? Apply at https://c1st.com/jobs/.
